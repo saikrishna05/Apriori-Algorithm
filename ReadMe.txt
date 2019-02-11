@@ -1,0 +1,1 @@
+File Apriori.java reads data from dataset 1. To read data from dataset 2 change the file name to dataset2.dat in line139. Make sure to keep the dateset in source code folder.Program generates the frequent itemset in a given dataset.
